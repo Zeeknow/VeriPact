@@ -53,5 +53,5 @@ Payments are held in a smart contract vault.
 ---
 
 ## 📬 Contact
-* **Lead Developer:** [Sodiq Oluwatoki / github.com/Zeeknow]
+* **Lead Developer:** Sodiq Oluwatoki / github.com/Zeeknow
 * **Project Status:** Applying for Redbelly Grants Program (Dec 2025)
